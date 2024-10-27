@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shashisingh17402/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shashisingh17402/Leetcode/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/shashisingh17402/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
